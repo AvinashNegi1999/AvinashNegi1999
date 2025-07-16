@@ -4,7 +4,7 @@
 
 🎓 **BCA Student** | **Aspiring Software Engineer** | Python & DSA Learner
 
-I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Engineering through an internationally accredited program. I'm passionate about learning Python, mastering Data Structures and Algorithms (via Striver DSA Sheet), and building clean, beginner-friendly code. My long-term goal is to become a software engineer at Google.
+I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Engineering. I'm passionate about learning Python, mastering Data Structures and Algorithms (via Striver DSA Sheet), and building clean, beginner-friendly code. My long-term goal is to become a software engineer at Google.
 
 ###
 
@@ -40,3 +40,20 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 - Striver DSA Sheet  
 
 🎯 *Goal:* FAANG-ready by 2027
+
+---
+
+## 📈 GitHub Stats
+
+![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashnegi1999&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Avinashnegi1999?theme=dark&font=Ubuntu)
+
+---
+
