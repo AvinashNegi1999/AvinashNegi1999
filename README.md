@@ -9,7 +9,7 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 ---
 
-<img src="https://media.giphy.com/media/3o7aCVpH1Wrx5LZnDi/giphy.gif" height="100" alt="learning gif" />
+<img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" height="100" alt="learning gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:30px; width:auto; margin-right:12px;" alt="python" />
