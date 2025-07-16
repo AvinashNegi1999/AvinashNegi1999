@@ -9,7 +9,6 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 ---
 
-<img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" height="100" alt="learning gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:30px; width:auto; margin-right:12px;" alt="python" />
@@ -21,7 +20,7 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 ---
 
-<img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" height="80" alt="email gif" />
+
 
 <div align="left">
   <a href="mailto:avinashnegi1999work@gmail.com" target="_blank">
@@ -42,13 +41,12 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 🎯 *Goal:* FAANG-ready by 2027
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="120" alt="target gif" />
+
 
 ---
 
 ## 📈 GitHub Stats
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="100" alt="github gif" />
 
 ![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -58,7 +56,6 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 ## 📊 LeetCode Stats
 
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" height="100" alt="leetcode gif" />
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Avinashnegi1999?theme=dark&font=Ubuntu)
 
