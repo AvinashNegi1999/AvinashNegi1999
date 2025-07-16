@@ -1,4 +1,4 @@
-<img align="centre" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif" style="height:400px; width:auto; max-width:100%; vertical-align:middle;" alt="animated gif" />
+<img align="centre" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif" style="height:350px; width:auto; max-width:100%; vertical-align:middle;" alt="animated gif" />
 <h2 align="left"># Hi there! 👋 I'm Avinash</h2>
 
 ###
