@@ -34,11 +34,9 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 ---
 
-## 💻 Featured Projects
+## 💻 Featured Project
 
-- 🔹 [Python Practice](https://github.com/Avinashnegi1999/your-python-repo) – Beginner-friendly, clean Python code  
-- 🔹 [C Language Notes](https://github.com/Avinashnegi1999/c-notes) – All semester notes & programs  
-- 🔹 [Striver DSA Progress Tracker](https://github.com/Avinashnegi1999/dsa-striver-tracker) – My FAANG preparation roadmap  
+- 🐍 [100 Days of Python Challenge](https://github.com/AvinashNegi1999/100-Days-of-Python-Code-challenge) – My journey of daily Python learning with code, logic, and examples
 
 ---
 
@@ -65,12 +63,6 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 ---
 
-## 🌌 Contribution Skyline
-
-[![Skyline](https://user-images.githubusercontent.com/4889583/131857974-6a2f846c-b8e7-4da4-9323-060ca11eeef5.gif)](https://skyline.github.com/Avinashnegi1999)
-
----
-
 ## 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Avinashnegi1999?theme=dark&font=Ubuntu)
@@ -80,4 +72,3 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 > 💬 “First, solve the problem. Then, write the code.” — John Johnson
 
 ---
-
