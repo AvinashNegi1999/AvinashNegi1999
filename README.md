@@ -2,13 +2,17 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="height:150px; width:auto; max-width:100%; vertical-align:middle;" alt="code gif" />
 
-###
-
-🎓 **BCA Student** | **Aspiring Software Engineer** | Python & DSA Learner  
-I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Engineering. I'm passionate about learning Python, mastering Data Structures and Algorithms (via Striver DSA Sheet), and building clean, beginner-friendly code. My long-term goal is to become a software engineer at Google.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=20&color=38C2FF&center=false&vCenter=true&width=400&lines=BCA+Student;Python+%7C+DSA+Learner;Future+Software+Engineer+@Google)](https://github.com/Avinashnegi1999)
 
 ---
 
+🎓 **BCA Student** | **Aspiring Software Engineer** | Python & DSA Learner  
+I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Engineering. I'm passionate about learning Python, mastering Data Structures and Algorithms (via Striver DSA Sheet), and building clean, beginner-friendly code.  
+🎯 *Goal:* Become a Software Engineer at **Google** by 2027.
+
+---
+
+## 🚀 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:30px; width:auto; margin-right:12px;" alt="python" />
@@ -20,7 +24,25 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 ---
 
+## 📚 Learning Journey
 
+- ✅ Python Basics  
+- ⏳ Python OOP  
+- ✅ C Programming  
+- ⏳ Human-Computer Interaction  
+- ⏳ Striver DSA Sheet – 10/180 done
+
+---
+
+## 💻 Featured Projects
+
+- 🔹 [Python Practice](https://github.com/Avinashnegi1999/your-python-repo) – Beginner-friendly, clean Python code  
+- 🔹 [C Language Notes](https://github.com/Avinashnegi1999/c-notes) – All semester notes & programs  
+- 🔹 [Striver DSA Progress Tracker](https://github.com/Avinashnegi1999/dsa-striver-tracker) – My FAANG preparation roadmap  
+
+---
+
+## 📫 Connect With Me
 
 <div align="left">
   <a href="mailto:avinashnegi1999work@gmail.com" target="_blank">
@@ -33,31 +55,29 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 ---
 
-✅ *Currently learning:*  
-- Python Basics, OOP  
-- C Programming  
-- Human-Computer Interaction  
-- Striver DSA Sheet  
+## 📈 GitHub Stats
 
-🎯 *Goal:* FAANG-ready by 2027
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashnegi1999&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📈 GitHub Stats
+## 🌌 Contribution Skyline
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashnegi1999&layout=compact&theme=tokyonight&hide_border=true)
+[![Skyline](https://user-images.githubusercontent.com/4889583/131857974-6a2f846c-b8e7-4da4-9323-060ca11eeef5.gif)](https://skyline.github.com/Avinashnegi1999)
 
 ---
 
 ## 📊 LeetCode Stats
 
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Avinashnegi1999?theme=dark&font=Ubuntu)
 
 ---
+
+> 💬 “First, solve the problem. Then, write the code.” — John Johnson
+
+---
+
