@@ -67,6 +67,12 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Avinashnegi1999?theme=dark&font=Ubuntu)
 
+<p align="right">
+  <img src="https://count.getloli.com/get/@AvinashNegi1999?theme=rule34" alt="Visitor Count" />
+</p>
+
+
+
 ---
 
 > 💬 “First, solve the problem. Then, write the code.” — John Johnson
