@@ -8,7 +8,7 @@
 
 🎓 **BCA Student** | **Aspiring Software Engineer** | Python & DSA Learner  
 I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Engineering. I'm passionate about learning Python, mastering Data Structures and Algorithms (via Striver DSA Sheet), and building clean, beginner-friendly code.  
-🎯 *Goal:* Become a Software Engineer at **Google** by 2027.
+🎯 *Goal:* Become a Software Engineer by 2027.
 
 ---
 
