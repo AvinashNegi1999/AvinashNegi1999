@@ -40,7 +40,7 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 ---
 
-## 📫 Connect With Me
+## 📢 Connect With Me
 
 <div align="left">
   <a href="mailto:avinashnegi1999work@gmail.com" target="_blank">
@@ -53,25 +53,34 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub & Coding Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashnegi1999&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&theme=tokyonight&hide_border=true)
-
----
-
-## 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Avinashnegi1999?theme=dark&font=Ubuntu)
+<table>
+  <tr>
+    <td align="center">
+      <b>LeetCode</b><br>
+      <img src="https://leetcard.jacoblin.cool/Avinashnegi1999?theme=dark&font=Ubuntu" width="300px" />
+    </td>
+    <td align="center">
+      <b>GitHub Stats</b><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="300px" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>GitHub Streak</b><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&theme=tokyonight&hide_border=true" width="300px" />
+    </td>
+    <td align="center">
+      <b>Top Languages</b><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashnegi1999&layout=compact&theme=tokyonight&hide_border=true" width="300px" />
+    </td>
+  </tr>
+</table>
 
 <p align="right">
   <img src="https://count.getloli.com/get/@AvinashNegi1999?theme=rule34" alt="Visitor Count" />
 </p>
-
-
 
 ---
 
