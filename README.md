@@ -36,7 +36,7 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 ## 💻 Featured Project
 
-- 🐍 [100 Days of Python Challenge](https://github.com/AvinashNegi1999/100-Days-of-Python-Code-challenge) – My journey of daily Python learning with code, logic, and examples
+- 🐍 [100 Days of Python Challenge](https://github.com/AvinashNegi1999/100-Days-of-Python-Code-challenge) – My journey of daily Python learning with code, logic, and projects
 
 ---
 
