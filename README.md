@@ -46,10 +46,14 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
   <a href="mailto:avinashnegi1999work@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
+  <a href="https://www.kaggle.com/avinashnegi1999" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
   <a href="https://leetcode.com/u/Avinashnegi1999/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
+
 
 ---
 
