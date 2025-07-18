@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="height:150px; width:auto; max-width:100%; vertical-align:middle;" alt="code gif" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=20&color=38C2FF&center=false&vCenter=true&width=400&lines=BCA+Student;Python+%7C+DSA+Learner;Future+Software+Engineer+@Google)](https://github.com/Avinashnegi1999)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=20&color=38C2FF&center=false&vCenter=true&width=400&lines=BCA+Student;Python+%7C+DSA+Learner;Future+Software+Engineer)](https://github.com/Avinashnegi1999)
 
 ---
 
