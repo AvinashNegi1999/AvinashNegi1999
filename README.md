@@ -39,7 +39,9 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 - 🐍 [100 Days of Python Challenge](https://github.com/AvinashNegi1999/100-Days-of-Python-Code-challenge) – My journey of daily Python learning with code, logic, and projects
 
 ---
-👨‍💻 My portfolio is   <img src="https://img.shields.io/badge/Hosted%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge"/> [avinashnegi.netlify.app](https://avinashnegi.netlify.app)  
+👨‍💻 My portfolio is <a href="https://avinashnegi.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Hosted%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge"/>
+</a>
 
 
 
