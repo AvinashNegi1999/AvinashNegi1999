@@ -1,6 +1,6 @@
 <h2 align="left"># Hi there! 👋 I'm Avinash</h2>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="height:150px; width:auto; max-width:100%; vertical-align:middle;" alt="code gif" />
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFmdHBvdWZ5N2RxeGp3Z3docWhkOTVuOW04bWlsamZlajdsYjh4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" style="height:150px; width:auto; max-width:100%; vertical-align:middle;" alt="code gif" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=20&color=38C2FF&center=false&vCenter=true&width=400&lines=BCA+Student;Python+%7C+DSA+Learner;Future+Software+Engineer)](https://github.com/Avinashnegi1999)
 
