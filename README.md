@@ -83,12 +83,12 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
     </td>
   </tr>
 </table>
-<h3>📊 GitHub Contribution Stats</h3>
+
+<h3>📈 GitHub Activity Graph</h3>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/AvinashNegi1999" alt="Avinash's GitHub Chart" width="600"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashNegi1999&theme=vue-dark&area=true&hide_border=true" alt="GitHub Activity Graph" width="600"/>
 </p>
-
 
 
 
