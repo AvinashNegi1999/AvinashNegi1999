@@ -45,7 +45,6 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 
 ## 📢 Connect With Me
-
 <div align="left">
   <a href="mailto:avinashnegi1999work@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
@@ -56,7 +55,14 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
   <a href="https://leetcode.com/u/Avinashnegi1999/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
+  <a href="https://github.com/AvinashNegi1999" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://x.com/AvinashNegiwork" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
 </div>
+
 
 
 ## 📊 GitHub & Coding Stats
