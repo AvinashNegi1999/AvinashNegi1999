@@ -58,7 +58,7 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
----
+
 
 ## 📊 GitHub & Coding Stats
 
