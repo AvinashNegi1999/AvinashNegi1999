@@ -84,6 +84,14 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
     </td>
   </tr>
 </table>
+<h3>📊 GitHub Contribution Stats</h3>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/AvinashNegi1999" alt="Avinash's GitHub Chart" width="600"/>
+</p>
+
+
+
 
 <p align="right">
   <img src="https://count.getloli.com/get/@AvinashNegi1999?theme=rule34" alt="Visitor Count" />
