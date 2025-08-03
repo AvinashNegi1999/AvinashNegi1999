@@ -92,14 +92,20 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
     </td>
   </tr>
 </table>
-
-<h3>📈 GitHub Activity Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashNegi1999&theme=vue-dark&area=true&hide_border=true" alt="GitHub Activity Graph" width="400"/>
-</p>
-
-
+<!-- Activity Graph Section -->
+<div style="max-width: 400px; margin: 20px auto; padding: 10px; background: #1a1b26; border-radius: 8px;">
+  <h2 align="center" style="color: #c0caf5; font-family: 'Ubuntu', sans-serif; font-size: 22px; margin: 0 0 10px 0;">
+    📈 GitHub Activity
+  </h2>
+  <p align="center" style="color: #a8b0d5; font-family: 'Ubuntu', sans-serif; font-size: 14px; margin: 0 0 10px 0;">
+    My coding journey in commits! 🚀
+  </p>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashNegi1999&theme=tokyonight&area=true&hide_border=true&bg_color=1a1b26&color=c0caf5&line=bb9af7&point=73ff00&area_color=585858" 
+    alt="GitHub Activity Graph" 
+    style="width: 100%; max-width: 400px; height: auto;"
+  />
+</div>
 
 <p align="right">
   <img src="https://count.getloli.com/get/@AvinashNegi1999?theme=rule34" alt="Visitor Count" />
