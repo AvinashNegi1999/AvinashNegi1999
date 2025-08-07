@@ -35,7 +35,7 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 - ✅ Python Basics  
 - ⏳ Python OOP  
 - ✅ C Programming
-- ⏳ Striver DSA Sheet 10/180
+- ⏳ Striver DSA Sheet
 
 ---
 
