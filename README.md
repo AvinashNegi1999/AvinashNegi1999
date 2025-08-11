@@ -1,9 +1,11 @@
+
+
 <h2 align="left"># Hi there! 👋 I'm Avinash</h2>
 
 <img 
   align="right" 
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFmdHBvdWZ5N2RxeGp3Z3docWhkOTVuOW04bWlsamZlajdsYjh4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" 
-  height="140px" 
+  src="https://github.com/user-attachments/assets/3b6b3e6d-e671-4b05-8d89-6225733013d1" 
+  height="380px" 
   style="width:auto; max-width:100%; vertical-align:middle;" 
   alt="code gif" 
 />
