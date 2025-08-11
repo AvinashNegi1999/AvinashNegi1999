@@ -31,7 +31,34 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 </div>
 
 ---
+## 🛠️ Favorite Tools
 
+**Productivity & Coding:**
+<p>
+  <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code">
+    <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </a>
+  <a href="https://www.notion.so/" target="_blank" title="Notion">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" title="Google Colab">
+    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  </a>
+  <a href="https://obsidian.md/" target="_blank" title="Obsidian">
+    <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"/>
+  </a>
+  <a href="https://trello.com/" target="_blank" title="Trello">
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" title="Postman">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  </a>
+</p>
+
+**VS Code Extensions:**  
+`Python`, `Jupyter`, `Prettier`, `GitLens`, `Docker`, `Code Runner`, `Material Icon Theme`, `Better Comments`, `LeetCode`
+
+---
 ## 📚 Learning Journey
 
 - ✅ Python Basics  
