@@ -70,49 +70,49 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 
 
 
-## 📊 GitHub & Coding Stats
-
-<table>
+<!-- 📊 GitHub & Coding Stats -->
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td align="center">
-      <b>LeetCode</b><br>
-      <img src="https://leetcard.jacoblin.cool/Avinashnegi1999?theme=dark&font=Ubuntu" width="300px" />
+    <td align="center" style="background: #1B1433; padding: 15px; border-radius: 8px;">
+      <b style="color: #FFDABD; font-family: Ubuntu, sans-serif;">LeetCode</b><br>
+      <img src="https://leetcard.jacoblin.cool/Avinashnegi1999?theme=dark&font=Ubuntu&bg_color=1B1433&border=6779FF&text_color=FFFFFF" width="300px" />
     </td>
-    <td align="center">
-      <b>GitHub Stats</b><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="300px" />
+    <td align="center" style="background: #1B1433; padding: 15px; border-radius: 8px;">
+      <b style="color: #FFDABD; font-family: Ubuntu, sans-serif;">GitHub Stats</b><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&hide_border=true&bg_color=1B1433&title_color=FFDABD&text_color=FFFFFF&icon_color=6779FF&count_private=true" width="300px" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>GitHub Streak</b><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&theme=tokyonight&hide_border=true" width="300px" />
+    <td align="center" style="background: #1B1433; padding: 15px; border-radius: 8px;">
+      <b style="color: #FFDABD; font-family: Ubuntu, sans-serif;">GitHub Streak</b><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&hide_border=true&background=1B1433&ring=6779FF&fire=FFDABD&currStreakLabel=FFFFFF" width="300px" />
     </td>
-    <td align="center">
-      <b>Top Languages</b><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashnegi1999&layout=compact&theme=tokyonight&hide_border=true" width="300px" />
+    <td align="center" style="background: #1B1433; padding: 15px; border-radius: 8px;">
+      <b style="color: #FFDABD; font-family: Ubuntu, sans-serif;">Top Languages</b><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashnegi1999&layout=compact&hide_border=true&bg_color=1B1433&title_color=FFDABD&text_color=FFFFFF" width="300px" />
     </td>
   </tr>
 </table>
-<!-- Activity Graph Section -->
-<div style="max-width: 400px; margin: 20px auto; padding: 10px; background: #1a1b26; border-radius: 8px;">
-  <h2 align="center" style="color: #c0caf5; font-family: 'Ubuntu', sans-serif; font-size: 22px; margin: 0 0 10px 0;">
+
+<!-- 📈 GitHub Activity Graph -->
+<div style="max-width: 400px; margin: 20px auto; padding: 10px; background: #1B1433; border-radius: 8px;">
+  <h2 align="center" style="color: #FFDABD; font-family: 'Ubuntu', sans-serif; font-size: 22px; margin-bottom: 10px;">
     📈 GitHub Activity
   </h2>
-  <p align="center" style="color: #a8b0d5; font-family: 'Ubuntu', sans-serif; font-size: 14px; margin: 0 0 10px 0;">
+  <p align="center" style="color: #E0E0E0; font-family: 'Ubuntu', sans-serif; font-size: 14px; margin-bottom: 10px;">
     My coding journey in commits! 🚀
   </p>
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashNegi1999&theme=tokyonight&area=true&hide_border=true&bg_color=1a1b26&color=c0caf5&line=bb9af7&point=73ff00&area_color=585858" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashNegi1999&hide_border=true&bg_color=FBFBFB&color=1B1433&line=6779FF&point=FFDABD&area=true&area_color=1B1433" 
     alt="GitHub Activity Graph" 
     style="width: 100%; max-width: 400px; height: auto;"
   />
 </div>
 
+<!-- Visitor Counter -->
 <p align="right">
   <img src="https://count.getloli.com/get/@AvinashNegi1999?theme=rule34" alt="Visitor Count" />
 </p>
-
 
 <details>
  <summary>👨‍💻 My Coding Journey</summary>
