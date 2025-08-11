@@ -59,12 +59,7 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 `Python`, `Jupyter`, `Prettier`, `GitLens`, `Docker`, `Code Runner`, `Material Icon Theme`, `Better Comments`, `LeetCode`
 
 ---
-## 📚 Learning Journey
-
-**Python Basics** ![100%](https://img.shields.io/badge/Progress-100%25-brightgreen)  
-**Python OOP** ![50%](https://img.shields.io/badge/Progress-50%25-yellow)  
-**C Programming** ![100%](https://img.shields.io/badge/Progress-100%25-brightgreen)  
-**Striver DSA Sheet** ![30%](https://img.shields.io/badge/Progress-30%25-orange)
+![Progress](progress.svg)
 
 
 ---
