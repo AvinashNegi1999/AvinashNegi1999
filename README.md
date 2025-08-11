@@ -111,6 +111,17 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
   <img src="https://count.getloli.com/get/@AvinashNegi1999?theme=rule34" alt="Visitor Count" />
 </p>
 
+
+<details>
+ <summary>👨‍💻 My Coding Journey</summary>
+
+I began my programming journey with **C** and **Python**, starting small with projects and problem-solving exercises. Over time I will focus on mastering **Data Structures & Algorithms** for technical interviews, diving into **Full-Stack Development** for end-to-end application building, and exploring **AI/ML** to create intelligent systems.
+
+Currently, I’m documenting my progress through consistent GitHub commits and detailed Notion notes — transforming my skills from beginner-level to production-ready expertise. My learning philosophy is simple:  
+**_Learn every day, build every week, improve every month._**
+
+</details>
+
 ---
 
 > 💬 “First, solve the problem. Then, write the code.” — John Johnson
