@@ -61,10 +61,11 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 ---
 ## 📚 Learning Journey
 
-- ✅ Python Basics  
-- ⏳ Python OOP  
-- ✅ C Programming
-- ⏳ Striver DSA Sheet
+**Python Basics** ![100%](https://img.shields.io/badge/Progress-100%25-brightgreen)  
+**Python OOP** ![50%](https://img.shields.io/badge/Progress-50%25-yellow)  
+**C Programming** ![100%](https://img.shields.io/badge/Progress-100%25-brightgreen)  
+**Striver DSA Sheet** ![30%](https://img.shields.io/badge/Progress-30%25-orange)
+
 
 ---
 
@@ -96,7 +97,8 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 </div>
 
 
-<!-- 📊 GitHub & Coding Stats -->
+## 📊 GitHub & Coding Stats
+
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td align="center" style="background: #FBFBFB; padding: 15px; border-radius: 8px;">
