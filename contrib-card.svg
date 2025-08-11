@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="140" viewBox="0 0 760 140" role="img" aria-label="Contribution preview with name">
+  <style>
+    .title { font: bold 16px/1.2 "Segoe UI", Roboto, Arial, sans-serif; fill: #0f172a; }
+    .name  { font: 700 18px/1 "Segoe UI", Roboto, Arial, sans-serif; fill: #16a34a; } /* green name */
+    .sub   { font: 12px/1 "Segoe UI", Roboto, Arial, sans-serif; fill: #475569; }
+    .cell  { rx: 3; ry: 3; }
+    .label { font: 11px/1 "Segoe UI", Roboto, Arial, sans-serif; fill: #94a3b8; }
+  </style>
+
+  <!-- background card -->
+  <rect x="8" y="8" width="744" height="124" rx="12" fill="#ffffff" stroke="#e6eef8" />
+
+  <!-- header -->
+  <text x="22" y="34" class="title">Contributions</text>
+  <!-- name (green) - edit the text content to change the name -->
+  <text x="22" y="58" class="name" id="contrib-name">Avinash Negi</text>
+  <text x="22" y="78" class="sub">Last 30 days — visual preview</text>
+
+  <!-- contribution grid label -->
+  <text x="180" y="34" class="label">Mon</text>
+  <text x="180" y="46" class="label">Tue</text>
+  <text x="180" y="58" class="label">Wed</text>
+  <text x="180" y="70" class="label">Thu</text>
+  <text x="180" y="82" class="label">Fri</text>
+  <text x="180" y="94" class="label">Sat</text>
+  <text x="180" y="106" class="label">Sun</text>
+
+  <!-- grid container -->
+  <g transform="translate(230,30)">
+    <!-- configuration -->
+    <!-- cols: 30, rows:7 -->
+    <!-- cell size and spacing -->
+    <defs>
+      <g id="cell">
+        <rect width="12" height="12" class="cell" />
+      </g>
+    </defs>
+
+    <!-- helper: generate a pattern of green intensities -->
+    <!-- Colors from faint to strong -->
+    <!-- Level 0 (empty): #ebedf0 -->
+    <!-- Level 1: #9be9a8 -->
+    <!-- Level 2: #40c463 -->
+    <!-- Level 3: #30a14e -->
+    <!-- Level 4: #216e39 -->
+
+    <!-- We'll draw a sample pattern. You can manually edit rectangles later if you want exact data. -->
+    <!-- Column loop (x) and row loop (y) visualized as explicit rectangles below -->
+    <!-- Column 1 -->
+    <rect x="0"   y="0"   width="12" height="12" fill="#216e39" rx="3" ry="3"/>
+    <rect x="0"   y="16"  width="12" height="12" fill="#30a14e" rx="3" ry="3"/>
+    <rect x="0"   y="32"  width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+    <rect x="0"   y="48"  width="12" height="12" fill="#9be9a8" rx="3" ry="3"/>
+    <rect x="0"   y="64"  width="12" height="12" fill="#ebedf0" rx="3" ry="3"/>
+    <rect x="0"   y="80"  width="12" height="12" fill="#9be9a8" rx="3" ry="3"/>
+    <rect x="0"   y="96"  width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+
+    <!-- Column 2 -->
+    <rect x="18"  y="0"   width="12" height="12" fill="#30a14e" rx="3" ry="3"/>
+    <rect x="18"  y="16"  width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+    <rect x="18"  y="32"  width="12" height="12" fill="#216e39" rx="3" ry="3"/>
+    <rect x="18"  y="48"  width="12" height="12" fill="#9be9a8" rx="3" ry="3"/>
+    <rect x="18"  y="64"  width="12" height="12" fill="#9be9a8" rx="3" ry="3"/>
+    <rect x="18"  y="80"  width="12" height="12" fill="#ebedf0" rx="3" ry="3"/>
+    <rect x="18"  y="96"  width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+
+    <!-- Column 3 -->
+    <rect x="36"  y="0"   width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+    <rect x="36"  y="16"  width="12" height="12" fill="#216e39" rx="3" ry="3"/>
+    <rect x="36"  y="32"  width="12" height="12" fill="#30a14e" rx="3" ry="3"/>
+    <rect x="36"  y="48"  width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+    <rect x="36"  y="64"  width="12" height="12" fill="#9be9a8" rx="3" ry="3"/>
+    <rect x="36"  y="80"  width="12" height="12" fill="#9be9a8" rx="3" ry="3"/>
+    <rect x="36"  y="96"  width="12" height="12" fill="#216e39" rx="3" ry="3"/>
+
+    <!-- Column 4 -->
+    <rect x="54"  y="0"   width="12" height="12" fill="#9be9a8" rx="3" ry="3"/>
+    <rect x="54"  y="16"  width="12" height="12" fill="#9be9a8" rx="3" ry="3"/>
+    <rect x="54"  y="32"  width="12" height="12" fill="#ebedf0" rx="3" ry="3"/>
+    <rect x="54"  y="48"  width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+    <rect x="54"  y="64"  width="12" height="12" fill="#30a14e" rx="3" ry="3"/>
+    <rect x="54"  y="80"  width="12" height="12" fill="#216e39" rx="3" ry="3"/>
+    <rect x="54"  y="96"  width="12" height="12" fill="#9be9a8" rx="3" ry="3"/>
+
+    <!-- Column 5 -->
+    <rect x="72"  y="0"   width="12" height="12" fill="#ebedf0" rx="3" ry="3"/>
+    <rect x="72"  y="16"  width="12" height="12" fill="#9be9a8" rx="3" ry="3"/>
+    <rect x="72"  y="32"  width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+    <rect x="72"  y="48"  width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+    <rect x="72"  y="64"  width="12" height="12" fill="#30a14e" rx="3" ry="3"/>
+    <rect x="72"  y="80"  width="12" height="12" fill="#216e39" rx="3" ry="3"/>
+    <rect x="72"  y="96"  width="12" height="12" fill="#ebedf0" rx="3" ry="3"/>
+
+    <!-- Column 6 -->
+    <rect x="90"  y="0"   width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+    <rect x="90"  y="16"  width="12" height="12" fill="#30a14e" rx="3" ry="3"/>
+    <rect x="90"  y="32"  width="12" height="12" fill="#216e39" rx="3" ry="3"/>
+    <rect x="90"  y="48"  width="12" height="12" fill="#216e39" rx="3" ry="3"/>
+    <rect x="90"  y="64"  width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+    <rect x="90"  y="80"  width="12" height="12" fill="#9be9a8" rx="3" ry="3"/>
+    <rect x="90"  y="96"  width="12" height="12" fill="#ebedf0" rx="3" ry="3"/>
+
+    <!-- Column 7 -->
+    <rect x="108" y="0"   width="12" height="12" fill="#216e39" rx="3" ry="3"/>
+    <rect x="108" y="16"  width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+    <rect x="108" y="32"  width="12" height="12" fill="#30a14e" rx="3" ry="3"/>
+    <rect x="108" y="48"  width="12" height="12" fill="#9be9a8" rx="3" ry="3"/>
+    <rect x="108" y="64"  width="12" height="12" fill="#ebedf0" rx="3" ry="3"/>
+    <rect x="108" y="80"  width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+    <rect x="108" y="96"  width="12" height="12" fill="#216e39" rx="3" ry="3"/>
+
+    <!-- Column 8..30: copy-pattern for space (for brevity many columns are omitted) -->
+    <!-- If you want the full 30 columns, simply copy the above blocks and shift x by +18 for each new column -->
+    <!-- Here's a short tail to produce visual length -->
+    <rect x="126" y="0" width="12" height="12" fill="#ebedf0" rx="3" ry="3"/>
+    <rect x="126" y="16" width="12" height="12" fill="#9be9a8" rx="3" ry="3"/>
+    <rect x="126" y="32" width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+    <rect x="126" y="48" width="12" height="12" fill="#30a14e" rx="3" ry="3"/>
+    <rect x="126" y="64" width="12" height="12" fill="#216e39" rx="3" ry="3"/>
+    <rect x="126" y="80" width="12" height="12" fill="#40c463" rx="3" ry="3"/>
+    <rect x="126" y="96" width="12" height="12" fill="#9be9a8" rx="3" ry="3"/>
+
+    <!-- dotted end to show continuity -->
+    <g transform="translate(162,40)" opacity="0.5">
+      <circle cx="0" cy="-24" r="1.6" fill="#94a3b8"/>
+      <circle cx="10" cy="-24" r="1.6" fill="#94a3b8"/>
+      <circle cx="20" cy="-24" r="1.6" fill="#94a3b8"/>
+      <text x="36" y="-20" class="label">…</text>
+    </g>
+  </g>
+
+  <!-- footer legend -->
+  <g transform="translate(520,30)">
+    <text x="0" y="12" class="label">Less</text>
+    <rect x="36" y="0" width="12" height="12" fill="#ebedf0" rx="3"/>
+    <rect x="56" y="0" width="12" height="12" fill="#9be9a8" rx="3"/>
+    <rect x="76" y="0" width="12" height="12" fill="#40c463" rx="3"/>
+    <rect x="96" y="0" width="12" height="12" fill="#216e39" rx="3"/>
+    <text x="120" y="12" class="label">More</text>
+  </g>
+
+</svg>
