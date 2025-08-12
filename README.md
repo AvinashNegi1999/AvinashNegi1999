@@ -143,12 +143,15 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
   />
 </div>
 
+<h2>My WakaTime Coding Activity</h2>
+<img src="https://wakatime.com/share/@avinashnegi/f0325152-be94-40ce-a233-bb26c9c0aeb4.svg" alt="WakaTime Stats" width="400" />
+
 <!-- Visitor Counter -->
 <p align="right">
   <img src="https://count.getloli.com/get/@AvinashNegi1999?theme=rule34" alt="Visitor Count" />
 </p>
 
-<img src="https://wakatime.com/share/@avinashnegi/f0325152-be94-40ce-a233-bb26c9c0aeb4.svg" alt="WakaTime Stats" width="400" />
+
 
 <details>
  <summary>👨‍💻 My Coding Journey</summary>
