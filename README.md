@@ -74,7 +74,6 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 </a>
 
 
-
 ## 📢 Connect With Me
 <div align="left">
   <a href="mailto:avinashnegi1999work@gmail.com" target="_blank">
@@ -89,7 +88,19 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
   <a href="https://x.com/AvinashNegiwork" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
+  <a href="https://www.figma.com/@avinash56" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+ <a href="https://www.producthunt.com/@avinashnegi1999" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Product%20Hunt&logo=product-hunt&label=&color=DA552F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+</a>
+  </a>
+  <a href="https://dev.to/avinashnegi1999" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
 </div>
+
+
 
 
 ## 📊 GitHub & Coding Stats
