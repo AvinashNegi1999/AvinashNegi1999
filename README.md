@@ -132,9 +132,7 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
   <h2 align="center" style="color: #1B1433; font-family: 'Ubuntu', sans-serif; font-size: 22px; margin-bottom: 10px;">
     📈 GitHub Activity
   </h2>
-  <p align="center" style="color: #1B1433; font-family: 'Ubuntu', sans-serif; font-size: 14px; margin-bottom: 10px;">
-    My coding journey in commits! 🚀
-  </p>
+  
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashNegi1999&hide_border=true&bg_color=FBFBFB&color=1B1433&line=6779FF&point=FFDABD&area=true&area_color=FFDABD" 
     alt="GitHub Activity Graph" 
