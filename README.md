@@ -1,13 +1,11 @@
 
 
 <h2 align="left"># Hi there! 👋 I'm Avinash</h2>
-
 <img 
   align="right" 
-  src="https://github.com/user-attachments/assets/3b6b3e6d-e671-4b05-8d89-6225733013d1" 
-  height="380px" 
-  style="width:auto; max-width:100%; vertical-align:middle;" 
-  alt="code gif" 
+  src="https://github.com/user-attachments/assets/137722de-957f-4075-86b3-a1d3ae4bf537" 
+  height="250" 
+  alt="code image"
 />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=20&color=38C2FF&center=false&vCenter=true&width=400&lines=BCA+Student;Python+%7C+DSA+Learner;Future+Software+Engineer)](https://github.com/Avinashnegi1999)
