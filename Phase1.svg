@@ -1,48 +1,46 @@
-<svg width="750" height="230" xmlns="http://www.w3.org/2000/svg">
-    <title>Phase 1 Progress Chart</title>
-    <desc>A chart showing the progress of different learning steps in Phase 1.</desc>
+## 📅 Phase 1 — Foundations, Web Development & Branding
 
-    <text x="10" y="25" font-size="18" font-family="Arial" font-weight="bold">📅 Phase 1 — Foundations, Web Development & Branding</text>
+<svg width="750" height="300" xmlns="http://www.w3.org/2000/svg">
 
-    <g>
-        <text x="10" y="60" font-size="14" font-family="Arial">Early Personal Branding</text>
-        <rect x="220" y="48" width="500" height="15" fill="#e0e0e0" rx="7" />
-        <rect id="progress-bar-0" x="220" y="48" width="0" height="15" fill="#4caf50" rx="7" />
-        <text id="progress-text-0" x="730" y="60" font-size="12" font-family="Arial" fill="#333">0%</text>
-    </g>
+  <!-- Title -->
+  <text x="10" y="20" font-size="18" font-family="Arial" font-weight="bold">
+    📅 Phase 1 — Foundations, Web Development & Branding
+  </text>
 
-    <g>
-        <text x="10" y="90" font-size="14" font-family="Arial">Linux Basics</text>
-        <rect x="220" y="78" width="500" height="15" fill="#e0e0e0" rx="7" />
-        <rect id="progress-bar-1" x="220" y="78" width="0" height="15" fill="#4caf50" rx="7" />
-        <text id="progress-text-1" x="730" y="90" font-size="12" font-family="Arial" fill="#333">0%</text>
-    </g>
+  <!-- Step 0 -->
+  <text x="10" y="50" font-size="14" font-family="Arial">Early Personal Branding</text>
+  <rect x="220" y="38" width="500" height="15" fill="#ddd" rx="7" />
+  <rect x="220" y="38" width="0" height="15" fill="#f44336" rx="7" />
+  <text x="730" y="50" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-    <g>
-        <text x="10" y="120" font-size="14" font-family="Arial">Python Foundations</text>
-        <rect x="220" y="108" width="500" height="15" fill="#e0e0e0" rx="7" />
-        <rect id="progress-bar-2" x="220" y="108" width="0" height="15" fill="#2196f3" rx="7" />
-        <text id="progress-text-2" x="730" y="120" font-size="12" font-family="Arial" fill="#333">0%</text>
-    </g>
+  <!-- Step 1 -->
+  <text x="10" y="80" font-size="14" font-family="Arial">Linux Basics</text>
+  <rect x="220" y="68" width="500" height="15" fill="#ddd" rx="7" />
+  <rect x="220" y="68" width="0" height="15" fill="#f44336" rx="7" />
+  <text x="730" y="80" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-    <g>
-        <text x="10" y="150" font-size="14" font-family="Arial">Web Development Basics</text>
-        <rect x="220" y="138" width="500" height="15" fill="#e0e0e0" rx="7" />
-        <rect id="progress-bar-3" x="220" y="138" width="0" height="15" fill="#f44336" rx="7" />
-        <text id="progress-text-3" x="730" y="150" font-size="12" font-family="Arial" fill="#333">0%</text>
-    </g>
+  <!-- Step 2 -->
+  <text x="10" y="110" font-size="14" font-family="Arial">Python Foundations</text>
+  <rect x="220" y="98" width="500" height="15" fill="#ddd" rx="7" />
+  <rect x="220" y="98" width="150" height="15" fill="#2196f3" rx="7" />
+  <text x="730" y="110" font-size="12" font-family="Arial" fill="#333">30%</text>
 
-    <g>
-        <text x="10" y="180" font-size="14" font-family="Arial">Frontend Frameworks</text>
-        <rect x="220" y="168" width="500" height="15" fill="#e0e0e0" rx="7" />
-        <rect id="progress-bar-4" x="220" y="168" width="0" height="15" fill="#f44336" rx="7" />
-        <text id="progress-text-4" x="730" y="180" font-size="12" font-family="Arial" fill="#333">0%</text>
-    </g>
+  <!-- Step 3 -->
+  <text x="10" y="140" font-size="14" font-family="Arial">Web Development Basics</text>
+  <rect x="220" y="128" width="500" height="15" fill="#ddd" rx="7" />
+  <rect x="220" y="128" width="0" height="15" fill="#f44336" rx="7" />
+  <text x="730" y="140" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-    <g>
-        <text x="10" y="210" font-size="14" font-family="Arial">Backend & Databases</text>
-        <rect x="220" y="198" width="500" height="15" fill="#e0e0e0" rx="7" />
-        <rect id="progress-bar-5" x="220" y="198" width="0" height="15" fill="#f44336" rx="7" />
-        <text id="progress-text-5" x="730" y="210" font-size="12" font-family="Arial" fill="#333">0%</text>
-    </g>
+  <!-- Step 4 -->
+  <text x="10" y="170" font-size="14" font-family="Arial">Frontend Frameworks</text>
+  <rect x="220" y="158" width="500" height="15" fill="#ddd" rx="7" />
+  <rect x="220" y="158" width="0" height="15" fill="#f44336" rx="7" />
+  <text x="730" y="170" font-size="12" font-family="Arial" fill="#333">0%</text>
+
+  <!-- Step 5 -->
+  <text x="10" y="200" font-size="14" font-family="Arial">Backend & Databases</text>
+  <rect x="220" y="188" width="500" height="15" fill="#ddd" rx="7" />
+  <rect x="220" y="188" width="0" height="15" fill="#f44336" rx="7" />
+  <text x="730" y="200" font-size="12" font-family="Arial" fill="#333">0%</text>
+
 </svg>
