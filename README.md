@@ -162,6 +162,30 @@ Currently, I’m documenting my progress through consistent GitHub commits and d
 
 ---
 
+## 🎓 My Udemy Learning Wishlist
+
+[![Udemy Badge](https://img.shields.io/badge/Udemy-Support%20My%20Learning-orange?logo=udemy&logoColor=white)](https://www.udemy.com/)
+
+If you’d like to support my learning journey, you can gift me any of these courses:  
+
+1. [Linux Command Line – Volume 1](https://www.udemy.com/course/linux-command-line-volume1/?couponCode=KEEPLEARNING)  
+2. [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)  
+3. [Blender Tutorial](https://www.udemy.com/course/blendertutorial/)  
+4. [Data Structures & Algorithms in Python](https://www.udemy.com/course/data-structures-algorithms-python/)  
+5. [Complete Linux Training Course to Get Your Dream IT Job](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/)  
+6. [WordPress for Beginners](https://www.udemy.com/course/wordpress-for-beginners-course/)  
+7. [AWS Certified Cloud Practitioner – 2024](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)  
+8. [Build Your Own Blockchain from A–Z](https://www.udemy.com/course/build-your-blockchain-az/)  
+9. [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)  
+
+🎁 **How to gift:**  
+- On Udemy, click **"Gift This Course"**.  
+- Enter my email: **avinashnegi1999work@gmail.com**  
+
+💡 **Note:** Udemy offers discounts from time to time — it’s wise to make purchases during these sale events for the best value.
+
+---
+
 > 💬 “First, solve the problem. Then, write the code.” — John Johnson
 
 ---
