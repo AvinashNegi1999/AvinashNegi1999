@@ -179,7 +179,6 @@ Currently, I’m documenting my progress through consistent GitHub commits and d
 | 🎨 Blender Tutorial | [![Gift Now](https://img.shields.io/badge/Gift%20This%20Course-orange?logo=udemy&logoColor=white)](https://www.udemy.com/course/blendertutorial/) |
 | 📊 Data Structures & Algorithms in Python | [![Gift Now](https://img.shields.io/badge/Gift%20This%20Course-orange?logo=udemy&logoColor=white)](https://www.udemy.com/course/data-structures-algorithms-python/) |
 | 🖥 Complete Linux Training Course | [![Gift Now](https://img.shields.io/badge/Gift%20This%20Course-orange?logo=udemy&logoColor=white)](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/) |
-| 🌐 WordPress for Beginners | [![Gift Now](https://img.shields.io/badge/Gift%20This%20Course-orange?logo=udemy&logoColor=white)](https://www.udemy.com/course/wordpress-for-beginners-course/) |
 | ☁️ AWS Certified Cloud Practitioner – 2024 | [![Gift Now](https://img.shields.io/badge/Gift%20This%20Course-orange?logo=udemy&logoColor=white)](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) |
 | ⛓ Build Your Own Blockchain from A–Z | [![Gift Now](https://img.shields.io/badge/Gift%20This%20Course-orange?logo=udemy&logoColor=white)](https://www.udemy.com/course/build-your-blockchain-az/) |
 | 💻 The Complete JavaScript Course | [![Gift Now](https://img.shields.io/badge/Gift%20This%20Course-orange?logo=udemy&logoColor=white)](https://www.udemy.com/course/the-complete-javascript-course/) |
