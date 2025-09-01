@@ -1,4 +1,7 @@
-
+<!-- Header with animated wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&text=@avinashnegi1999&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Developer%20|%20Creator%20|%20Innovator&descSize=14&descAlignY=65" width="100%"/>
+</div>
 
 <h2 align="left"># Hi there! 👋 I'm Avinash</h2>
 <img 
@@ -189,8 +192,11 @@ Currently, I’m documenting my progress through consistent GitHub commits and d
 - On Udemy, click **"Gift This Course"**.  
 - Enter my email: **avinashnegi1999work@gmail.com**
   
----
-
-> 💬 “First, solve the problem. Then, write the code.” — John Johnson
 
 ---
+
+<!-- Footer wave with quote -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&section=footer&text=💬%20“First,%20solve%20the%20problem.%20Then,%20write%20the%20code.”%20—%20John%20Johnson&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
+
