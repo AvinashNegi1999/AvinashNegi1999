@@ -1,8 +1,7 @@
 <!-- Header with animated wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&text=@avinashnegi1999&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Developer%20|%20Creator%20|%20Innovator&descSize=14&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&text=@avinashnegi1999&fontSize=38&fontColor=141414&animation=fadeIn&desc=Developer%20|%20Creator%20|%20Innovator&descSize=14&descAlignY=65" width="100%"/>
 </div>
-
 <h2 align="left"># Hi there! 👋 I'm Avinash</h2>
 <img 
   align="right" 
