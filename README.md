@@ -143,7 +143,7 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Eng
 </div>
 
 <h2>My WakaTime Coding Activity</h2>
-<img src="https://wakatime.com/share/@avinashnegi/f0325152-be94-40ce-a233-bb26c9c0aeb4.svg" alt="WakaTime Stats" width="400" />
+<img src="https://wakatime.com/share/@avinashnegi/2cd84cbc-1d90-417b-a759-758e974fba12.svg"alt="WakaTime Stats" width="400" />
 
 <!-- Visitor Counter -->
 <p align="right">
