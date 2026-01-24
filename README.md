@@ -22,7 +22,7 @@
   <br><br>
   🎯 <i>Goal: Become a Software Engineer by 2027.</i>
   <br><br>
-  
+   
   <a href="https://avinashnegi.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Hosted%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge"/>
   </a>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <br><br>
-  
+   
   <h3 align="center">Tools & Productivity</h3>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -70,26 +70,13 @@
 
 ---
 
-<h2 align="center">📊 Coding Stats</h2>
+<h2 align="center">📊 Activity & Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&hide_border=true&bg_color=FBFBFB&title_color=1B1433&text_color=1B1433&icon_color=6779FF&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashnegi1999&layout=compact&hide_border=true&bg_color=FBFBFB&title_color=1B1433&text_color=1B1433" height="160" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&hide_border=true&background=FBFBFB&ring=6779FF&fire=FFDABD&currStreakLabel=1B1433" />
-</div>
-<br>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Avinashnegi1999?theme=light&font=Ubuntu&bg_color=FBFBFB&border=6779FF&text_color=1B1433" width="90%" style="max-width: 400px;"/>
-</div>
-
-<h3 align="center">⏳ WakaTime Activity</h3>
-<div align="center">
-  <img src="https://wakatime.com/share/@avinashnegi/2cd84cbc-1d90-417b-a759-758e974fba12.svg" width="90%" style="max-width: 450px;" alt="WakaTime Stats" />
-  <br><br>
-  <img src="https://wakatime.com/share/@avinashnegi/59d526df-2de3-405f-a5d2-b1f78a57002e.svg" width="90%" style="max-width: 450px;" alt="WakaTime Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&hide_border=true&bg_color=FBFBFB&title_color=1B1433&text_color=1B1433&icon_color=6779FF&count_private=true" height="130" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&hide_border=true&background=FBFBFB&ring=6779FF&fire=FFDABD&currStreakLabel=1B1433" height="130" alt="Streak Stats" />
+  <img src="https://leetcard.jacoblin.cool/Avinashnegi1999?theme=light&font=Ubuntu&bg_color=FBFBFB&border=6779FF&text_color=1B1433" height="130" alt="LeetCode Stats" />
+  <img src="https://wakatime.com/share/@avinashnegi/2cd84cbc-1d90-417b-a759-758e974fba12.svg" height="130" alt="WakaTime Stats" />
 </div>
 
 ---
