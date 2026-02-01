@@ -122,8 +122,15 @@
   <a href="https://avinashdev1999.wordpress.com">
     <img src="https://img.shields.io/static/v1?message=WordPress&logo=wordpress&label=&color=21759B&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
+  <a href="https://www.linkedin.com/in/avinashnegi1999/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://medium.com/@avinashnegi1999">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
 </div>
 <br>
+
 
 <p align="center">
   <img src="https://count.getloli.com/get/@AvinashNegi1999?theme=gelbooru" alt="Visitor Count" />
