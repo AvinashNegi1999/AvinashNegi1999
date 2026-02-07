@@ -103,30 +103,59 @@
 ---
 
 <h2 align="center">📢 Connect With Me</h2>
-<div align="center">
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:center;">
+
   <a href="mailto:avinashnegi1999work@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img alt="Email"
+      src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge"
+      height="35">
   </a>
+
   <a href="https://www.kaggle.com/avinashnegi1999">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img alt="Kaggle"
+      src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&color=20BEFF&logoColor=white&style=for-the-badge"
+      height="35">
   </a>
+
   <a href="https://leetcode.com/u/Avinashnegi1999/">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img alt="LeetCode"
+      src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=white&style=for-the-badge"
+      height="35">
   </a>
+
+  <a href="https://codepen.io/avinashnegi1999">
+    <img alt="CodePen"
+      src="https://img.shields.io/static/v1?message=CodePen&logo=codepen&color=000000&logoColor=white&style=for-the-badge"
+      height="35">
+  </a>
+
   <a href="https://x.com/AvinashNegiwork">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img alt="X"
+      src="https://img.shields.io/static/v1?message=X&logo=x&color=000000&logoColor=white&style=for-the-badge"
+      height="35">
   </a>
+
   <a href="https://dev.to/avinashnegi1999">
-    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img alt="Dev.to"
+      src="https://img.shields.io/static/v1?message=Dev.to&logo=devdotto&color=0A0A0A&logoColor=white&style=for-the-badge"
+      height="35">
   </a>
+
   <a href="https://www.linkedin.com/in/avinashnegi1999/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img alt="LinkedIn"
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&logoColor=white&style=for-the-badge"
+      height="35">
   </a>
+
   <a href="https://hashnode.com/@avinashnegi">
-    <img src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&label=&color=2962FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img alt="Hashnode"
+      src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&color=2962FF&logoColor=white&style=for-the-badge"
+      height="35">
   </a>
+
 </div>
-<br>
+
 
 
 
