@@ -1,168 +1,266 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=24&text=@avinashnegi1999&fontSize=40&fontColor=141414&animation=fadeIn&desc=Developer%20|%20Creator%20|%20Innovator&descSize=15&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1d1d1f,50:86868b,100:f5f5f7&text=Avinash%20Negi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 </div>
 
-<h2 align="center">👋 Hi there! I'm Avinash</h2>
-<div align="center">
-  <a href="https://github.com/Avinashnegi1999">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=22&color=38C2FF&center=true&vCenter=true&width=500&lines=BCA+Student;Python+%7C+DSA+Learner;Future+Software+Engineer;Building+Clean+Code" alt="Typing SVG" />
-  </a>
-</div>
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/137722de-957f-4075-86b3-a1d3ae4bf537" height="200" alt="code image" style="border-radius: 15px;"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3000&pause=1000&color=F5F5F7&center=true&vCenter=true&width=600&lines=BCA+Student;Python+%7C+DSA+Enthusiast;Future+Software+Engineer;Building+Tomorrow's+Solutions">
+    <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3000&pause=1000&color=1D1D1F&center=true&vCenter=true&width=600&lines=BCA+Student;Python+%7C+DSA+Enthusiast;Future+Software+Engineer;Building+Tomorrow's+Solutions" alt="Typing Animation" />
+  </picture>
 </div>
+
 <br>
 
 <div align="center">
-  🎓 <b>BCA Student</b> | <b>Aspiring Software Engineer</b> | <b>Python & DSA</b>
-  <br><br>
-  I'm currently pursuing a Bachelor of Computer Applications (BCA) in Software Engineering. I'm passionate about learning Python, mastering <b>Data Structures and Algorithms</b> (via Striver DSA Sheet), and building clean, beginner-friendly code.
-  <br><br>
-  🎯 <i>Goal: Become a Software Engineer by 2027.</i>
-  <br><br>
-   
-  <a href="https://avinashnegi.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Hosted%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge"/>
-  </a>
+  <img src="https://github.com/user-attachments/assets/137722de-957f-4075-86b3-a1d3ae4bf537" height="240" alt="Developer" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
 </div>
 
----
+<br>
 
-<h2 align="center">🚀 Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/BCA-Student-1D1D1F?style=flat-square&labelColor=F5F5F7&color=1D1D1F" height="28"/>
+  <img src="https://img.shields.io/badge/Aspiring-Software%20Engineer-1D1D1F?style=flat-square&labelColor=F5F5F7&color=1D1D1F" height="28"/>
+  <img src="https://img.shields.io/badge/Focus-Python%20%26%20DSA-1D1D1F?style=flat-square&labelColor=F5F5F7&color=1D1D1F" height="28"/>
+</p>
 
-<div align="center">
-  <h3 align="center">Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <br><br>
-   
-  <h3 align="center">Tools & Productivity</h3>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-</div>
+<br>
 
 <div align="center">
+  <h3 style="color: #1d1d1f; font-weight: 600;">Hello. I'm Avinash.</h3>
+  <p style="color: #86868b; font-size: 17px; line-height: 1.6; max-width: 700px; margin: 0 auto;">
+    Currently pursuing Bachelor of Computer Applications in Software Engineering.<br>
+    Passionate about Python, mastering Data Structures & Algorithms,<br>
+    and building elegant, efficient solutions.
+  </p>
   <br>
-  <b>My Favorite VS Code Extensions:</b><br>
-  <code>Python</code> • <code>Jupyter</code> • <code>Prettier</code> • <code>GitLens</code> • <code>Docker</code> • <code>Code Runner</code> • <code>Material Icon Theme</code> • <code>Better Comments</code> • <code>LeetCode</code>
+  <p style="color: #1d1d1f; font-size: 19px; font-weight: 500;">
+    🎯 Goal: Software Engineer by 2027
+  </p>
+  <br>
+  <a href="https://avinashnegi.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white&labelColor=F5F5F7" height="40" style="border-radius: 10px;"/>
+  </a>
 </div>
+
+<br><br>
 
 ---
 
-<h2 align="center">💻 Featured Projects</h2>
+<br>
+
+<h2 align="center" style="color: #1d1d1f; font-weight: 600;">Technology Stack</h2>
+
+<br>
 
 <div align="center">
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[100 Days of Python](https://github.com/AvinashNegi1999/100-Days-of-Python-Code-challenge)** | My journey of daily Python learning. Includes a **Snake Game**, **Pomodoro Timer**, and **Web Scrapers**. | `Python` `Turtle` `Tkinter` |
-| **[My Portfolio](https://avinashnegi.netlify.app)** | Personal developer portfolio site to showcase my journey and projects. | `HTML/CSS` `Netlify` |
+  
+  <table>
+    <tr>
+      <td align="center" width="140" height="112.43">
+        <img src="https://skillicons.dev/icons?i=python" width="65px"/>
+        <br/><strong style="color: #1d1d1f;">Python</strong>
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://skillicons.dev/icons?i=c" width="65px"/>
+        <br/><strong style="color: #1d1d1f;">C</strong>
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65px"/>
+        <br/><strong style="color: #1d1d1f;">VS Code</strong>
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://skillicons.dev/icons?i=git" width="65px"/>
+        <br/><strong style="color: #1d1d1f;">Git</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140" height="112.43">
+        <img src="https://skillicons.dev/icons?i=github" width="65px"/>
+        <br/><strong style="color: #1d1d1f;">GitHub</strong>
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://skillicons.dev/icons?i=postman" width="65px"/>
+        <br/><strong style="color: #1d1d1f;">Postman</strong>
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://skillicons.dev/icons?i=notion" width="65px"/>
+        <br/><strong style="color: #1d1d1f;">Notion</strong>
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://skillicons.dev/icons?i=obsidian" width="65px"/>
+        <br/><strong style="color: #1d1d1f;">Obsidian</strong>
+      </td>
+    </tr>
+  </table>
 
 </div>
+
+<br>
+
+<div align="center" style="background-color: #f5f5f7; padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 800px;">
+  <p style="color: #86868b; font-size: 14px; margin: 0;">
+    <strong style="color: #1d1d1f;">Essential Extensions:</strong><br>
+    Python • Jupyter • Prettier • GitLens • Docker • Code Runner<br>
+    Material Icon Theme • Better Comments • LeetCode
+  </p>
+</div>
+
+<br><br>
 
 ---
 
-<h2 align="center">📊 Activity & Stats</h2>
+<br>
+
+<h2 align="center" style="color: #1d1d1f; font-weight: 600;">Featured Work</h2>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&hide_border=true&bg_color=FBFBFB&title_color=1B1433&text_color=1B1433&icon_color=6779FF&count_private=true" height="130" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&hide_border=true&background=FBFBFB&ring=6779FF&fire=FFDABD&currStreakLabel=1B1433" height="130" alt="Streak Stats" />
-  <img src="https://leetcard.jacoblin.cool/Avinashnegi1999?theme=light&font=Ubuntu&bg_color=FBFBFB&border=6779FF&text_color=1B1433" height="130" alt="LeetCode Stats" />
-  <img src="https://wakatime.com/share/@avinashnegi/2cd84cbc-1d90-417b-a759-758e974fba12.svg" height="130" alt="WakaTime Stats" />
+
+<table>
+<thead>
+<tr>
+<th align="left" style="background-color: #1d1d1f; color: #f5f5f7;">Project</th>
+<th align="left" style="background-color: #1d1d1f; color: #f5f5f7;">Description</th>
+<th align="left" style="background-color: #1d1d1f; color: #f5f5f7;">Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="https://github.com/AvinashNegi1999/100-Days-of-Python-Code-challenge">100 Days of Python</a></strong></td>
+<td>Daily Python learning journey featuring Snake Game, Pomodoro Timer, and Web Scrapers</td>
+<td><code>Python</code> <code>Turtle</code> <code>Tkinter</code></td>
+</tr>
+<tr>
+<td><strong><a href="https://avinashnegi.netlify.app">Portfolio</a></strong></td>
+<td>Personal developer portfolio showcasing projects and journey</td>
+<td><code>HTML/CSS</code> <code>Netlify</code></td>
+</tr>
+</tbody>
+</table>
+
 </div>
+
+<br><br>
 
 ---
 
+<br>
+
+<h2 align="center" style="color: #1d1d1f; font-weight: 600;">Performance Metrics</h2>
+
+<br>
+
 <div align="center">
-  <h3 align="center">📈 Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashNegi1999&hide_border=true&bg_color=FBFBFB&color=1B1433&line=6779FF&point=FFDABD&area=true&area_color=FFDABD" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f&icon_color=0071e3&count_private=true&border_radius=15" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&hide_border=true&background=f5f5f7&ring=0071e3&fire=ff9500&currStreakLabel=1d1d1f&border_radius=15" height="165" alt="Streak Stats" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Avinashnegi1999?theme=light&font=SF%20Pro%20Display&bg_color=f5f5f7&border=d2d2d7&text_color=1d1d1f&title_color=0071e3" height="165" alt="LeetCode Stats" />
+  <img src="https://wakatime.com/share/@avinashnegi/2cd84cbc-1d90-417b-a759-758e974fba12.svg" height="165" alt="WakaTime Stats" />
+</div>
+
+<br><br>
+
+---
+
+<br>
+
+<h3 align="center" style="color: #1d1d1f; font-weight: 600;">Contribution Activity</h3>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashNegi1999&hide_border=true&bg_color=f5f5f7&color=1d1d1f&line=0071e3&point=ff9500&area=true&area_color=0071e3&radius=15" width="92%" style="border-radius: 15px;" />
+</div>
+
+<br><br>
+
+---
 
 <br>
 
 <details>
- <summary align="center"><b>👨‍💻 Click to read my Coding Journey</b></summary>
- <br>
-  <p align="center">
-    I began my programming journey with <b>C</b> and <b>Python</b>, starting small with projects and problem-solving exercises. Over time I will focus on mastering <b>Data Structures & Algorithms</b> for technical interviews, diving into <b>Full-Stack Development</b> for end-to-end application building, and exploring <b>AI/ML</b> to create intelligent systems.
-    <br><br>
-    Currently, I’m documenting my progress through consistent GitHub commits and detailed Notion notes — transforming my skills from beginner-level to production-ready expertise. My learning philosophy is simple:  
-    <br>
-    <i>"Learn every day, build every week, improve every month."</i>
-  </p>
+<summary align="center"><strong style="color: #0071e3; font-size: 17px; cursor: pointer;">💭 My Journey in Code</strong></summary>
+<br>
+<div align="center" style="max-width: 750px; margin: 0 auto;">
+<p style="color: #1d1d1f; font-size: 16px; line-height: 1.8; text-align: left; padding: 0 20px;">
+My programming journey began with <strong>C</strong> and <strong>Python</strong>, starting with small projects and problem-solving exercises. I'm now focused on three key areas:
+<br><br>
+<strong style="color: #0071e3;">Data Structures & Algorithms</strong> — Building a strong foundation for technical interviews through consistent practice and the Striver DSA Sheet.
+<br><br>
+<strong style="color: #0071e3;">Full-Stack Development</strong> — Learning to build complete applications from frontend to backend.
+<br><br>
+<strong style="color: #0071e3;">AI & Machine Learning</strong> — Exploring intelligent systems and their real-world applications.
+<br><br>
+I document my progress through daily GitHub commits and detailed notes, transforming beginner skills into production-ready expertise.
+<br><br>
+<em style="color: #86868b;">"Learn every day. Build every week. Improve every month."</em>
+</p>
+</div>
+<br>
 </details>
+
+<br><br>
 
 ---
 
-<h2 align="center">📢 Connect With Me</h2>
+<br>
 
-<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:center;">
+<h2 align="center" style="color: #1d1d1f; font-weight: 600;">Let's Connect</h2>
 
-  <a href="mailto:avinashnegi1999work@gmail.com">
-    <img alt="Email"
-      src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge"
-      height="35">
-  </a>
-
-  <a href="https://www.kaggle.com/avinashnegi1999">
-    <img alt="Kaggle"
-      src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&color=20BEFF&logoColor=white&style=for-the-badge"
-      height="35">
-  </a>
-
-  <a href="https://leetcode.com/u/Avinashnegi1999/">
-    <img alt="LeetCode"
-      src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=white&style=for-the-badge"
-      height="35">
-  </a>
-
-  <a href="https://codepen.io/avinashnegi1999">
-    <img alt="CodePen"
-      src="https://img.shields.io/static/v1?message=CodePen&logo=codepen&color=000000&logoColor=white&style=for-the-badge"
-      height="35">
-  </a>
-
-  <a href="https://x.com/AvinashNegiwork">
-    <img alt="X"
-      src="https://img.shields.io/static/v1?message=X&logo=x&color=000000&logoColor=white&style=for-the-badge"
-      height="35">
-  </a>
-
-  <a href="https://dev.to/avinashnegi1999">
-    <img alt="Dev.to"
-      src="https://img.shields.io/static/v1?message=Dev.to&logo=devdotto&color=0A0A0A&logoColor=white&style=for-the-badge"
-      height="35">
-  </a>
-
-  <a href="https://www.linkedin.com/in/avinashnegi1999/">
-    <img alt="LinkedIn"
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&logoColor=white&style=for-the-badge"
-      height="35">
-  </a>
-
-  <a href="https://hashnode.com/@avinashnegi">
-    <img alt="Hashnode"
-      src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&color=2962FF&logoColor=white&style=for-the-badge"
-      height="35">
-  </a>
-
-</div>
-
-
-
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@AvinashNegi1999?theme=gelbooru" alt="Visitor Count" />
-</p>
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=24&section=footer&text=💬%20“First,%20solve%20the%20problem.%20Then,%20write%20the%20code.”&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <a href="mailto:avinashnegi1999work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1D1D1F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F5F5F7" height="38"/>
+  </a>
+  <a href="https://www.linkedin.com/in/avinashnegi1999/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=F5F5F7" height="38"/>
+  </a>
+  <a href="https://x.com/AvinashNegiwork">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=F5F5F7" height="38"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://leetcode.com/u/Avinashnegi1999/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=F5F5F7" height="38"/>
+  </a>
+  <a href="https://www.kaggle.com/avinashnegi1999">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=F5F5F7" height="38"/>
+  </a>
+  <a href="https://codepen.io/avinashnegi1999">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=F5F5F7" height="38"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://dev.to/avinashnegi1999">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=F5F5F7" height="38"/>
+  </a>
+  <a href="https://hashnode.com/@avinashnegi">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=F5F5F7" height="38"/>
+  </a>
+</div>
+
+<br><br>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@AvinashNegi1999?theme=moebooru" alt="Profile Views" />
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1d1d1f,100:86868b&section=footer&text=Think%20Different.%20Code%20Better.&fontSize=20&fontColor=f5f5f7&animation=fadeIn&fontAlignY=70" width="100%"/>
 </div>
