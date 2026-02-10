@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/137722de-957f-4075-86b3-a1d3ae4bf537" height="240" alt="Developer" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&h=400&fit=crop" height="240" alt="Developer Workspace" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
 </div>
 
 <br>
@@ -154,14 +154,14 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f&icon_color=0071e3&count_private=true&border_radius=15" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&hide_border=true&background=f5f5f7&ring=0071e3&fire=ff9500&currStreakLabel=1d1d1f&border_radius=15" height="165" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f&icon_color=0071e3&count_private=true&border_radius=15&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&hide_border=true&background=f5f5f7&ring=0071e3&fire=ff9500&currStreakLabel=1d1d1f&border_radius=15&stroke=d2d2d7&sideLabels=1d1d1f&dates=86868b" height="165" alt="Streak Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Avinashnegi1999?theme=light&font=SF%20Pro%20Display&bg_color=f5f5f7&border=d2d2d7&text_color=1d1d1f&title_color=0071e3" height="165" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Avinashnegi1999?theme=light&font=Noto%20Sans&bg_color=f5f5f7&border=0&radius=15&ext=heatmap" height="165" alt="LeetCode Stats" />
   <img src="https://wakatime.com/share/@avinashnegi/2cd84cbc-1d90-417b-a759-758e974fba12.svg" height="165" alt="WakaTime Stats" />
 </div>
 
@@ -176,7 +176,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashNegi1999&hide_border=true&bg_color=f5f5f7&color=1d1d1f&line=0071e3&point=ff9500&area=true&area_color=0071e3&radius=15" width="92%" style="border-radius: 15px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashNegi1999&bg_color=f5f5f7&color=1d1d1f&line=0071e3&point=ff9500&area=true&hide_border=true&area_color=d6e8ff&title_color=1d1d1f&radius=15" width="92%" style="border-radius: 15px;" />
 </div>
 
 <br><br>
