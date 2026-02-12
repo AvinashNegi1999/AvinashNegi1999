@@ -248,7 +248,7 @@ I document my progress through daily GitHub commits and detailed notes, transfor
   <a href="https://dev.to/avinashnegi1999">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=F5F5F7" height="38"/>
   </a>
-  <a href="https://hashnode.com/@avinashnegi">
+  <a href="https://hashnode.com/@avinashnegi1999">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=F5F5F7" height="38"/>
   </a>
 </div>
