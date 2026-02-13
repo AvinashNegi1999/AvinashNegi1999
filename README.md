@@ -39,7 +39,7 @@
     🎯 Goal: Software Engineer by 2027
   </p>
   <br>
-  <a href="https://avinashnegi.netlify.app" target="_blank">
+  <a href="https://avinashnegi1999.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white&labelColor=F5F5F7" height="40" style="border-radius: 10px;"/>
   </a>
 </div>
