@@ -154,7 +154,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinashnegi1999&show_icons=true&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=1d1d1f&icon_color=0071e3&count_private=true&border_radius=15&cache_seconds=1800" height="165" alt="GitHub Stats" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&hide_border=true&background=f5f5f7&ring=0071e3&fire=ff9500&currStreakLabel=1d1d1f&border_radius=15&stroke=d2d2d7&sideLabels=1d1d1f&dates=86868b" height="165" alt="Streak Stats" />
 </div>
 
