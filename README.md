@@ -1,48 +1,42 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1d1d1f,50:86868b,100:f5f5f7&text=Avinash%20Negi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
-</div>
+
+<!-- ============================================ -->
+<!--            HERO SECTION                       -->
+<!-- ============================================ -->
 
 <br>
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=300&size=14&duration=4000&pause=2000&color=A1A1A6&center=true&vCenter=true&width=435&lines=hello%2C+world.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=300&size=14&duration=4000&pause=2000&color=6E6E73&center=true&vCenter=true&width=435&lines=hello%2C+world." alt="hello" />
+</picture>
+
+<br><br>
+
+# Avinash Negi
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=200&size=22&duration=3500&pause=1200&color=F5F5F7&center=true&vCenter=true&width=700&lines=BCA+Student+%E2%80%A2+Python+Developer+%E2%80%A2+DSA+Explorer;Crafting+clean+code%2C+one+commit+at+a+time.;Think+Different.+Code+Better.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=200&size=22&duration=3500&pause=1200&color=1D1D1F&center=true&vCenter=true&width=700&lines=BCA+Student+%E2%80%A2+Python+Developer+%E2%80%A2+DSA+Explorer;Crafting+clean+code%2C+one+commit+at+a+time.;Think+Different.+Code+Better." alt="Typing" />
+</picture>
+
+<br><br>
+
+<a href="https://avinashnegi1999.github.io/portfolio/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3000&pause=1000&color=F5F5F7&center=true&vCenter=true&width=600&lines=BCA+Student;Python+%7C+DSA+Enthusiast;Future+Software+Engineer;Building+Tomorrow's+Solutions">
-    <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3000&pause=1000&color=1D1D1F&center=true&vCenter=true&width=600&lines=BCA+Student;Python+%7C+DSA+Enthusiast;Future+Software+Engineer;Building+Tomorrow's+Solutions" alt="Typing Animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%E2%86%92_View_Portfolio-F5F5F7?style=flat-square&labelColor=F5F5F7&color=F5F5F7">
+    <img src="https://img.shields.io/badge/%E2%86%92_View_Portfolio-1D1D1F?style=flat-square&labelColor=1D1D1F&color=1D1D1F" height="30"/>
   </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&h=400&fit=crop" height="240" alt="Developer Workspace" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BCA-Student-1D1D1F?style=flat-square&labelColor=F5F5F7&color=1D1D1F" height="28"/>
-  <img src="https://img.shields.io/badge/Aspiring-Software%20Engineer-1D1D1F?style=flat-square&labelColor=F5F5F7&color=1D1D1F" height="28"/>
-  <img src="https://img.shields.io/badge/Focus-Python%20%26%20DSA-1D1D1F?style=flat-square&labelColor=F5F5F7&color=1D1D1F" height="28"/>
-</p>
-
-<br>
-
-<div align="center">
-  <h3 style="color: #1d1d1f; font-weight: 600;">Hello. I'm Avinash.</h3>
-  <p style="color: #86868b; font-size: 17px; line-height: 1.6; max-width: 700px; margin: 0 auto;">
-    Currently pursuing Bachelor of Computer Applications in Software Engineering.<br>
-    Passionate about Python, mastering Data Structures & Algorithms,<br>
-    and building elegant, efficient solutions.
-  </p>
-  <br>
-  <p style="color: #1d1d1f; font-size: 19px; font-weight: 500;">
-    🎯 Goal: Software Engineer by 2027
-  </p>
-  <br>
-  <a href="https://avinashnegi1999.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white&labelColor=F5F5F7" height="40" style="border-radius: 10px;"/>
-  </a>
-</div>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:avinashnegi1999work@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%E2%86%92_Get_In_Touch-2C2C2E?style=flat-square&labelColor=2C2C2E&color=2C2C2E">
+    <img src="https://img.shields.io/badge/%E2%86%92_Get_In_Touch-E8E8ED?style=flat-square&labelColor=E8E8ED&color=E8E8ED" height="30"/>
+  </picture>
+</a>
 
 <br><br>
 
@@ -50,98 +44,287 @@
 
 <br>
 
-<h2 align="center" style="color: #1d1d1f; font-weight: 600;">Technology Stack</h2>
+<!-- ============================================ -->
+<!--            ABOUT SECTION                      -->
+<!-- ============================================ -->
 
-<br>
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="140" height="112.43">
-        <img src="https://skillicons.dev/icons?i=python" width="65px"/>
-        <br/><strong style="color: #1d1d1f;">Python</strong>
-      </td>
-      <td align="center" width="140" height="112.43">
-        <img src="https://skillicons.dev/icons?i=c" width="65px"/>
-        <br/><strong style="color: #1d1d1f;">C</strong>
-      </td>
-      <td align="center" width="140" height="112.43">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65px"/>
-        <br/><strong style="color: #1d1d1f;">VS Code</strong>
-      </td>
-      <td align="center" width="140" height="112.43">
-        <img src="https://skillicons.dev/icons?i=git" width="65px"/>
-        <br/><strong style="color: #1d1d1f;">Git</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140" height="112.43">
-        <img src="https://skillicons.dev/icons?i=github" width="65px"/>
-        <br/><strong style="color: #1d1d1f;">GitHub</strong>
-      </td>
-      <td align="center" width="140" height="112.43">
-        <img src="https://skillicons.dev/icons?i=postman" width="65px"/>
-        <br/><strong style="color: #1d1d1f;">Postman</strong>
-      </td>
-      <td align="center" width="140" height="112.43">
-        <img src="https://skillicons.dev/icons?i=notion" width="65px"/>
-        <br/><strong style="color: #1d1d1f;">Notion</strong>
-      </td>
-      <td align="center" width="140" height="112.43">
-        <img src="https://skillicons.dev/icons?i=obsidian" width="65px"/>
-        <br/><strong style="color: #1d1d1f;">Obsidian</strong>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br>
-
-<div align="center" style="background-color: #f5f5f7; padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 800px;">
-  <p style="color: #86868b; font-size: 14px; margin: 0;">
-    <strong style="color: #1d1d1f;">Essential Extensions:</strong><br>
-    Python • Jupyter • Prettier • GitLens • Docker • Code Runner<br>
-    Material Icon Theme • Better Comments • LeetCode
-  </p>
-</div>
-
-<br><br>
-
----
-
-<br>
-
-<h2 align="center" style="color: #1d1d1f; font-weight: 600;">Featured Work</h2>
-
-<br>
-
-<div align="center">
-
-<table>
-<thead>
+<table border="0" align="center">
 <tr>
-<th align="left" style="background-color: #1d1d1f; color: #f5f5f7;">Project</th>
-<th align="left" style="background-color: #1d1d1f; color: #f5f5f7;">Description</th>
-<th align="left" style="background-color: #1d1d1f; color: #f5f5f7;">Stack</th>
+<td width="50%" align="center">
+
+<br>
+
+```
+ ╭─────────────────────────────╮
+ │                             │
+ │   🎓  BCA in Software       │
+ │       Engineering           │
+ │                             │
+ │   🎯  SWE by 2027           │
+ │                             │
+ │   📍  India                  │
+ │                             │
+ │   ⚡  Python · DSA · C       │
+ │                             │
+ ╰─────────────────────────────╯
+```
+
+<br>
+
+</td>
+<td width="50%" align="center">
+
+<br>
+
+> *"The people who are crazy enough to*
+> *think they can change the world*
+> *are the ones who do."*
+>
+> — Steve Jobs
+
+<br>
+
+**Currently focused on:**
+<br>
+Striver DSA Sheet &nbsp;·&nbsp; Python Mastery
+<br>
+Full-Stack Development &nbsp;·&nbsp; AI/ML
+
+<br>
+
+</td>
 </tr>
-</thead>
-<tbody>
-<tr>
-<td><strong><a href="https://github.com/AvinashNegi1999/100-Days-of-Python-Code-challenge">100 Days of Python</a></strong></td>
-<td>Daily Python learning journey featuring Snake Game, Pomodoro Timer, and Web Scrapers</td>
-<td><code>Python</code> <code>Turtle</code> <code>Tkinter</code></td>
-</tr>
-<tr>
-<td><strong><a href="https://avinashnegi.netlify.app">Portfolio</a></strong></td>
-<td>Personal developer portfolio showcasing projects and journey</td>
-<td><code>HTML/CSS</code> <code>Netlify</code></td>
-</tr>
-</tbody>
 </table>
 
+<br>
+
+---
+
+<br>
+
+<!-- ============================================ -->
+<!--            TECH STACK                         -->
+<!-- ============================================ -->
+
+### ⌘ &nbsp; Technology
+
+<br>
+
+<table border="0" align="center">
+<tr>
+<td align="center" width="120">
+<br>
+<img src="https://skillicons.dev/icons?i=python" width="48"/>
+<br><br>
+<sub><b>Python</b></sub>
+<br><br>
+</td>
+<td align="center" width="120">
+<br>
+<img src="https://skillicons.dev/icons?i=c" width="48"/>
+<br><br>
+<sub><b>C</b></sub>
+<br><br>
+</td>
+<td align="center" width="120">
+<br>
+<img src="https://skillicons.dev/icons?i=git" width="48"/>
+<br><br>
+<sub><b>Git</b></sub>
+<br><br>
+</td>
+<td align="center" width="120">
+<br>
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<br><br>
+<sub><b>GitHub</b></sub>
+<br><br>
+</td>
+<td align="center" width="120">
+<br>
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/>
+<br><br>
+<sub><b>VS Code</b></sub>
+<br><br>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<br>
+<img src="https://skillicons.dev/icons?i=postman" width="48"/>
+<br><br>
+<sub><b>Postman</b></sub>
+<br><br>
+</td>
+<td align="center" width="120">
+<br>
+<img src="https://skillicons.dev/icons?i=notion" width="48"/>
+<br><br>
+<sub><b>Notion</b></sub>
+<br><br>
+</td>
+<td align="center" width="120">
+<br>
+<img src="https://skillicons.dev/icons?i=obsidian" width="48"/>
+<br><br>
+<sub><b>Obsidian</b></sub>
+<br><br>
+</td>
+<td align="center" width="120">
+<br>
+<img src="https://skillicons.dev/icons?i=html" width="48"/>
+<br><br>
+<sub><b>HTML</b></sub>
+<br><br>
+</td>
+<td align="center" width="120">
+<br>
+<img src="https://skillicons.dev/icons?i=css" width="48"/>
+<br><br>
+<sub><b>CSS</b></sub>
+<br><br>
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<!-- ============================================ -->
+<!--            FEATURED WORK                      -->
+<!-- ============================================ -->
+
+### ⌘ &nbsp; Featured Work
+
+<br>
+
+<a href="https://github.com/AvinashNegi1999/100-Days-of-Python-Code-challenge">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AvinashNegi1999&repo=100-Days-of-Python-Code-challenge&theme=transparent&hide_border=true&title_color=F5F5F7&text_color=A1A1A6&icon_color=0071E3&bg_color=161617">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashNegi1999&repo=100-Days-of-Python-Code-challenge&theme=default&hide_border=true&title_color=1D1D1F&text_color=6E6E73&icon_color=0071E3&bg_color=F5F5F7" width="400"/>
+</picture>
+</a>
+
+<br><br>
+
+<table border="0" align="center">
+<tr>
+<td width="50%" align="center">
+
+**100 Days of Python** &nbsp; `→`
+<br><br>
+<sub>Daily Python challenges featuring<br>Snake Game · Pomodoro Timer · Web Scrapers</sub>
+<br>
+<sub>`Python` `Turtle` `Tkinter`</sub>
+
+</td>
+<td width="50%" align="center">
+
+**[Portfolio](https://avinashnegi.netlify.app)** &nbsp; `→`
+<br><br>
+<sub>Personal developer portfolio<br>showcasing projects & journey</sub>
+<br>
+<sub>`HTML/CSS` `Netlify`</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<!-- ============================================ -->
+<!--            PROGRESS / LEARNING                -->
+<!-- ============================================ -->
+
+### ⌘ &nbsp; Learning Journey
+
+<br>
+
+```text
+Python Basics      ████████████████████████████████████████  100%
+C Programming      ████████████████████████████████████████  100%
+Python OOP         ████████████████████░░░░░░░░░░░░░░░░░░░░   50%
+Striver DSA Sheet  ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   30%
+Full-Stack Dev     ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   15%
+AI / ML            ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   10%
+```
+
+<br>
+
+---
+
+<br>
+
+<!-- ============================================ -->
+<!--            STATS                              -->
+<!-- ============================================ -->
+
+### ⌘ &nbsp; Metrics
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&hide_border=true&background=0D1117&ring=0071E3&fire=FF9500&currStreakLabel=F5F5F7&border_radius=12&stroke=2C2C2E&sideLabels=A1A1A6&dates=6E6E73&currStreakNum=F5F5F7&sideNums=F5F5F7">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&hide_border=true&background=F5F5F7&ring=0071E3&fire=FF9500&currStreakLabel=1D1D1F&border_radius=12&stroke=D2D2D7&sideLabels=6E6E73&dates=86868B&currStreakNum=1D1D1F&sideNums=1D1D1F" height="180" alt="Streak Stats" />
+</picture>
+
 </div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AvinashNegi1999&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5F5F7&text_color=A1A1A6&icon_color=0071E3&ring_color=0071E3&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=AvinashNegi1999&show_icons=true&hide_border=true&bg_color=F5F5F7&title_color=1D1D1F&text_color=6E6E73&icon_color=0071E3&ring_color=0071E3&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashNegi1999&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5F5F7&text_color=A1A1A6">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashNegi1999&layout=compact&hide_border=true&bg_color=F5F5F7&title_color=1D1D1F&text_color=6E6E73" height="180" alt="Top Languages" />
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Avinashnegi1999?theme=light&font=Noto%20Sans&bg_color=f5f5f7&border=0&radius=12&ext=heatmap" height="170" alt="LeetCode Stats" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<!-- ============================================ -->
+<!--            CONTRIBUTION GRAPH                 -->
+<!-- ============================================ -->
+
+### ⌘ &nbsp; Activity
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AvinashNegi1999&bg_color=0D1117&color=A1A1A6&line=0071E3&point=FF9500&area=true&hide_border=true&area_color=0071E322&title_color=F5F5F7&radius=12">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashNegi1999&bg_color=F5F5F7&color=6E6E73&line=0071E3&point=FF9500&area=true&hide_border=true&area_color=D6E8FF&title_color=1D1D1F&radius=12" width="95%" alt="Activity Graph" />
+</picture>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinashNegi1999&theme=default" width="95%" alt="Profile Details" />
 
 <br><br>
 
@@ -149,21 +332,14 @@
 
 <br>
 
-<h2 align="center" style="color: #1d1d1f; font-weight: 600;">Performance Metrics</h2>
+<!-- ============================================ -->
+<!--            SNAKE ANIMATION                    -->
+<!-- ============================================ -->
 
-<br>
-
-<div align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinashnegi1999&hide_border=true&background=f5f5f7&ring=0071e3&fire=ff9500&currStreakLabel=1d1d1f&border_radius=15&stroke=d2d2d7&sideLabels=1d1d1f&dates=86868b" height="165" alt="Streak Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Avinashnegi1999?theme=light&font=Noto%20Sans&bg_color=f5f5f7&border=0&radius=15&ext=heatmap" height="165" alt="LeetCode Stats" />
-  <img src="https://wakatime.com/share/@avinashnegi/2cd84cbc-1d90-417b-a759-758e974fba12.svg" height="165" alt="WakaTime Stats" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvinashNegi1999/AvinashNegi1999/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/AvinashNegi1999/AvinashNegi1999/output/github-snake.svg" width="100%" alt="Snake Animation" />
+</picture>
 
 <br><br>
 
@@ -171,96 +347,39 @@
 
 <br>
 
-<h3 align="center" style="color: #1d1d1f; font-weight: 600;">Contribution Activity</h3>
+<!-- ============================================ -->
+<!--            CONNECT SECTION                    -->
+<!-- ============================================ -->
+
+### ⌘ &nbsp; Connect
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashNegi1999&bg_color=f5f5f7&color=1d1d1f&line=0071e3&point=ff9500&area=true&hide_border=true&area_color=d6e8ff&title_color=1d1d1f&radius=15" width="92%" style="border-radius: 15px;" />
-</div>
+<a href="mailto:avinashnegi1999work@gmail.com"><img src="https://img.shields.io/badge/Mail-1D1D1F?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/avinashnegi1999/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a>&nbsp;
+<a href="https://x.com/AvinashNegiwork"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="32"/></a>&nbsp;
+<a href="https://leetcode.com/u/Avinashnegi1999/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="32"/></a>&nbsp;
+<a href="https://www.kaggle.com/avinashnegi1999"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="32"/></a>
+
+<br>
+
+<a href="https://dev.to/avinashnegi1999"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="32"/></a>&nbsp;
+<a href="https://hashnode.com/@avinashnegi1999"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="32"/></a>&nbsp;
+<a href="https://codepen.io/avinashnegi1999"><img src="https://img.shields.io/badge/CodePen-1E1F26?style=for-the-badge&logo=codepen&logoColor=white" height="32"/></a>
 
 <br><br>
 
 ---
 
-<br>
-
-<details>
-<summary align="center"><strong style="color: #0071e3; font-size: 17px; cursor: pointer;">💭 My Journey in Code</strong></summary>
-<br>
-<div align="center" style="max-width: 750px; margin: 0 auto;">
-<p style="color: #1d1d1f; font-size: 16px; line-height: 1.8; text-align: left; padding: 0 20px;">
-My programming journey began with <strong>C</strong> and <strong>Python</strong>, starting with small projects and problem-solving exercises. I'm now focused on three key areas:
-<br><br>
-<strong style="color: #0071e3;">Data Structures & Algorithms</strong> — Building a strong foundation for technical interviews through consistent practice and the Striver DSA Sheet.
-<br><br>
-<strong style="color: #0071e3;">Full-Stack Development</strong> — Learning to build complete applications from frontend to backend.
-<br><br>
-<strong style="color: #0071e3;">AI & Machine Learning</strong> — Exploring intelligent systems and their real-world applications.
-<br><br>
-I document my progress through daily GitHub commits and detailed notes, transforming beginner skills into production-ready expertise.
-<br><br>
-<em style="color: #86868b;">"Learn every day. Build every week. Improve every month."</em>
-</p>
-</div>
-<br>
-</details>
-
 <br><br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=200&size=12&duration=5000&pause=3000&color=6E6E73&center=true&vCenter=true&width=500&lines=Designed+in+India.+Committed+with+%E2%9D%A4%EF%B8%8F+on+GitHub.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=200&size=12&duration=5000&pause=3000&color=86868B&center=true&vCenter=true&width=500&lines=Designed+in+India.+Committed+with+%E2%9D%A4%EF%B8%8F+on+GitHub." alt="Footer" />
+</picture>
 
 <br>
 
-<h2 align="center" style="color: #1d1d1f; font-weight: 600;">Let's Connect</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1d1d1f,50:2c2c2e,100:86868b&section=footer" width="100%"/>
 
-<br>
-
-<div align="center">
-  <a href="mailto:avinashnegi1999work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1D1D1F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F5F5F7" height="38"/>
-  </a>
-  <a href="https://www.linkedin.com/in/avinashnegi1999/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=F5F5F7" height="38"/>
-  </a>
-  <a href="https://x.com/AvinashNegiwork">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=F5F5F7" height="38"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://leetcode.com/u/Avinashnegi1999/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=F5F5F7" height="38"/>
-  </a>
-  <a href="https://www.kaggle.com/avinashnegi1999">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=F5F5F7" height="38"/>
-  </a>
-  <a href="https://codepen.io/avinashnegi1999">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=F5F5F7" height="38"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://dev.to/avinashnegi1999">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=F5F5F7" height="38"/>
-  </a>
-  <a href="https://hashnode.com/@avinashnegi1999">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=F5F5F7" height="38"/>
-  </a>
-</div>
-
-<br><br>
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@AvinashNegi1999?theme=moebooru" alt="Profile Views" />
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1d1d1f,100:86868b&section=footer&text=Think%20Different.%20Code%20Better.&fontSize=20&fontColor=f5f5f7&animation=fadeIn&fontAlignY=70" width="100%"/>
 </div>

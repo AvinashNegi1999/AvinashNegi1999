@@ -1,30 +1,37 @@
-<svg width="500" height="180" xmlns="http://www.w3.org/2000/svg">
+<svg width="520" height="260" xmlns="http://www.w3.org/2000/svg" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif;">
+
+  <!-- Background -->
+  <rect width="520" height="260" rx="16" fill="#F5F5F7"/>
 
   <!-- Title -->
-  <text x="10" y="20" font-size="18" font-family="Arial" font-weight="bold">📚 Learning Journey</text>
+  <text x="30" y="38" font-size="17" font-weight="600" fill="#1D1D1F" letter-spacing="-0.3">Learning Journey</text>
+  <text x="30" y="56" font-size="11" fill="#86868B" letter-spacing="0.2">Progress toward mastery</text>
 
   <!-- Python Basics -->
-  <text x="10" y="50" font-size="14" font-family="Arial">Python Basics</text>
-  <rect x="150" y="38" width="300" height="15" fill="#ddd" rx="7" />
-  <rect x="150" y="38" width="300" height="15" fill="#4caf50" rx="7" />
-  <text x="460" y="50" font-size="12" font-family="Arial" fill="#333">100%</text>
-
-  <!-- Python OOP -->
-  <text x="10" y="80" font-size="14" font-family="Arial">Python OOP</text>
-  <rect x="150" y="68" width="300" height="15" fill="#ddd" rx="7" />
-  <rect x="150" y="68" width="150" height="15" fill="#2196f3" rx="7" />
-  <text x="460" y="80" font-size="12" font-family="Arial" fill="#333">50%</text>
+  <text x="30" y="95" font-size="13" fill="#1D1D1F" font-weight="500">Python Basics</text>
+  <text x="470" y="95" font-size="12" fill="#6E6E73" text-anchor="end" font-weight="500">100%</text>
+  <rect x="30" y="102" width="460" height="6" rx="3" fill="#E8E8ED"/>
+  <rect x="30" y="102" width="460" height="6" rx="3" fill="#34C759"/>
 
   <!-- C Programming -->
-  <text x="10" y="110" font-size="14" font-family="Arial">C Programming</text>
-  <rect x="150" y="98" width="300" height="15" fill="#ddd" rx="7" />
-  <rect x="150" y="98" width="300" height="15" fill="#ff9800" rx="7" />
-  <text x="460" y="110" font-size="12" font-family="Arial" fill="#333">100%</text>
+  <text x="30" y="135" font-size="13" fill="#1D1D1F" font-weight="500">C Programming</text>
+  <text x="470" y="135" font-size="12" fill="#6E6E73" text-anchor="end" font-weight="500">100%</text>
+  <rect x="30" y="142" width="460" height="6" rx="3" fill="#E8E8ED"/>
+  <rect x="30" y="142" width="460" height="6" rx="3" fill="#FF9500"/>
+
+  <!-- Python OOP -->
+  <text x="30" y="175" font-size="13" fill="#1D1D1F" font-weight="500">Python OOP</text>
+  <text x="470" y="175" font-size="12" fill="#6E6E73" text-anchor="end" font-weight="500">50%</text>
+  <rect x="30" y="182" width="460" height="6" rx="3" fill="#E8E8ED"/>
+  <rect x="30" y="182" width="230" height="6" rx="3" fill="#0071E3"/>
 
   <!-- Striver DSA Sheet -->
-  <text x="10" y="140" font-size="14" font-family="Arial">Striver DSA Sheet</text>
-  <rect x="150" y="128" width="300" height="15" fill="#ddd" rx="7" />
-  <rect x="150" y="128" width="90" height="15" fill="#9c27b0" rx="7" />
-  <text x="460" y="140" font-size="12" font-family="Arial" fill="#333">30%</text>
+  <text x="30" y="215" font-size="13" fill="#1D1D1F" font-weight="500">Striver DSA Sheet</text>
+  <text x="470" y="215" font-size="12" fill="#6E6E73" text-anchor="end" font-weight="500">30%</text>
+  <rect x="30" y="222" width="460" height="6" rx="3" fill="#E8E8ED"/>
+  <rect x="30" y="222" width="138" height="6" rx="3" fill="#AF52DE"/>
+
+  <!-- Subtle border -->
+  <rect width="520" height="260" rx="16" fill="none" stroke="#D2D2D7" stroke-width="1"/>
 
 </svg>
